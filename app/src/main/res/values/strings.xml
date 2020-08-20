@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP_PassCheck</string>
+
+    <string name="txt1">-?-</string>
+    <string name="pass">enter password</string>
+
+</resources>
