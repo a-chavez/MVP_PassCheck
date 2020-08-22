@@ -11,7 +11,7 @@
 
         <style name="TextFont" parent="@android:style/TextAppearance.Small">
             <item name="android:fontFamily">@font/allerta</item>
-            <item name="android:textColor">@color/colorDark2</item>
+            <item name="android:textColor">#ffffff</item>
             <item name="android:textSize">22sp</item>
             <item name="android:textAlignment">center</item>
             <item name="android:gravity">center_vertical</item>

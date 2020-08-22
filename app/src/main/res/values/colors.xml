@@ -9,7 +9,8 @@
     <color name="colorAmarillo">#FFB73B</color>
     <color name="colorVerde">#33691E</color>
 
-       <color name="colorDark1">#201B1B</color>
+    <color name="colorDark1">#201B1B</color>
     <color name="colorDark2">#2C2A2A</color>
+    <color name="colorFondoClaro">#F4E2CA</color>
 
 </resources>
